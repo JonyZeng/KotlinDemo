@@ -1,0 +1,4 @@
+package coroutines
+
+class First {
+}

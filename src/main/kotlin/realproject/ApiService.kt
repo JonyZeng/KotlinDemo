@@ -1,0 +1,4 @@
+package realproject
+
+class ApiService {
+}

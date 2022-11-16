@@ -1,0 +1,4 @@
+package realproject
+
+interface Callback {
+}
